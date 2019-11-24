@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "babel-plugin-styled-components": "^1.10.0",
+    "global": "^4.3.2",
+    "next": "^8.0.3",
+    "next-compose": "^0.0.2",
+    "next-compose-plugins": "^2.1.1",
+    "next-fonts": "^0.17.0",
+    "next-images": "^1.1.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "styled-components": "^4.1.3"
+  }
+}
