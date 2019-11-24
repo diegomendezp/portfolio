@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const BackgroundWrapper = styled.section`
-  position: absolute;
+  position: fixed;
   min-height: 100vh;
   top: 0;
   left: 0;
@@ -11,6 +11,7 @@ const BackgroundWrapper = styled.section`
   background-color: #1d1d1f;
   display: flex;
   align-items: center;
+  z-index: -1;
 
    .marquee {
     width: 100%;
