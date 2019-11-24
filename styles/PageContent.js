@@ -48,6 +48,16 @@ const PageContentWrapper = styled.section`
     }
   }
 
+  .projects-container {
+    width: 100%;
+    padding-bottom: 5%;
+  }
+
+  .copyright {
+    position: absolute;
+    bottom: 0.1%;
+  } 
+
   @media only screen and (min-width:415px) and (max-width:768px){
     width: 95%;
     .description-container {

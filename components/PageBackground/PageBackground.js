@@ -15,7 +15,7 @@ export default function PageBackground() {
   }); 
 
   const displayText = () => {
-    return "React – Redux – Node – Web Development – Next.js – Angular – Javascript – ".repeat(1000)
+    return "React – Redux – Node – Web Development – Next.js – Angular – Javascript – React Native".repeat(1000)
   }
 
   return (

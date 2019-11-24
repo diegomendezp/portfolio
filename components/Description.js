@@ -12,7 +12,7 @@ const displayNetworks = () =>
 export default function Description() {
   return (
     <div className="description-container">
-      <div className="description-content">
+      <div className="description-content" data-aos="fade-in">
         <div className="description-text">
           <PageParagraph>
             Hi, I'm Diego, a Computer Engineer and Full Stack Web Developer based in Madrid.
