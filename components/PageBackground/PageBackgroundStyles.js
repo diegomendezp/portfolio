@@ -10,7 +10,7 @@ const BackgroundWrapper = styled.section`
   overflow: hidden;
   background-color: #1d1d1f;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   z-index: -1;
 
    .marquee {

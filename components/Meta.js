@@ -13,19 +13,10 @@ const Meta = () => {
           box-sizing: border-box;
         }
         @font-face {
-          font-family: "Icon-Font-Regular";
-          src: url(/static/fonts/IconFont-Regular-0.9.woff);
-          src: local("Icon-Font-Regular"),
-            url(/static/fonts/IconFont-Regular-0.9.woff) format("woff"),
-          font-weight: normal;
-          font-style: normal;
-        }
-
-        @font-face {
-          font-family: "WhyteInktrap-Regular";
-          src: url(/static/fonts/WhyteInktrap-Light.woff2);
-          src: local("WhyteInktrap-Regular"),
-            url(/static/fonts/WhyteInktrap-Light.woff2) format("woff"),
+          font-family: "Space-Mono";
+          src: url(/static/fonts/Space-Mono.woff2);
+          src: local("Space-Mono"),
+            url(/static/fonts/Space-Mono.woff2) format("woff2")
           font-weight: normal;
           font-style: normal;
         }
@@ -37,6 +28,7 @@ const Meta = () => {
           overflow-y: scroll;
           overflow-x: hidden;
           background-color: #1d1d1f;
+          font-size: 81%;
         }
       `}</style>
     </React.Fragment>
