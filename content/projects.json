@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Vasalto web page",
+    "photo":"/static/img/vasalto.jpg",
+    "client":"Vasalto Tech and Talent",
+    "role": "Lead Developer",
+    "technologies": "Next.js – Express.js",
+    "link": "https://vasalto.com/",
+    "size": "50%",
+    "justify":"flex-end"
+  },
+  {
+    "name": "NU:NC APP",
+    "photo":"/static/img/nunc-app.gif",
+    "client":"Tailor Hub",
+    "role": "Developer",
+    "technologies": "React Native – Redux",
+    "link": "https://apps.apple.com/es/app/nu-nc/id1469934297?l=en",
+    "size": "55%",
+    "justify":"flex-start"
+  },
+  {
+    "name": "Amaped web page",
+    "photo":"/static/img/amaped.jpg",
+    "client":"Amaped",
+    "role": "Lead Developer",
+    "technologies": "Next.js",
+    "link": "https://amaped.com/",
+    "size": "65%",
+    "justify":"center"
+  },
+  {
+    "name": "NU:NC Control Panel",
+    "photo":"/static/img/nunc-panel.png",
+    "client":"Tailor Hub",
+    "role": "Lead Developer – CTO",
+    "technologies": "React – Node – Redux",
+    "link": "https://panel-nunc.app.faable.com/login",
+    "size": "50%",
+    "justify":"flex-end"
+  }
+]
