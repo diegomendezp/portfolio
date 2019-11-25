@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const BackgroundText = styled.span`
-  font-family: "Icon-Font-Regular";
+  font-family: "Space-Mono";
   color: white;
   font-size: 2.2rem;
   line-height: 2.4rem;

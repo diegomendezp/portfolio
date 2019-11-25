@@ -7,6 +7,7 @@ const ProjectWrapper = styled.div`
   width: 100%;
   z-index: 1;
   padding: 10% 0;
+  mix-blend-mode: difference;
 
   .project-container {
     width: 100%;
@@ -29,15 +30,6 @@ const ProjectWrapper = styled.div`
     object-fit: cover;
     width: 100%;
     margin-bottom: 2%;
-  }
-
-  a {
-    color: white;
-    text-decoration: none;
-    &:visited {
-      text-decoration: none;
-      color: white;
-    }
   }
 
   @media only screen and (min-width: 415px) and (max-width: 768px) {

@@ -38,35 +38,5 @@
     "link": "https://panel-nunc.app.faable.com/login",
     "size": "50%",
     "justify":"flex-end"
-  },
-  {
-    "name": "MRO Aerospace Logistics Stock Optimisation UI",
-    "photo":"",
-    "client":"Obuu",
-    "role": "Lead Developer",
-    "technologies": "React – Redux",
-    "link": "/",
-    "size": "45%",
-    "justify":"center"
-  },
-  {
-    "name": "Ejiure web page",
-    "photo":"",
-    "client":"Ejiure",
-    "role": "Lead Developer",
-    "technologies": "Next.js",
-    "link": "https://ejiure.herokuapp.com/",
-    "size": "50%",
-    "justify":"flex-start"
-  },
-  {
-    "name": "Ironhack Squad Converter",
-    "photo":"",
-    "client":"Ironhack",
-    "role": "Frontend Developer",
-    "technologies": "Angular",
-    "link": "https://squads.ironhack.com/splash",
-    "size": "65%",
-    "justify":"flex-end"
   }
 ]

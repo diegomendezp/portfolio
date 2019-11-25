@@ -16,10 +16,16 @@ function Home() {
       <Meta />
       <PageBackground />
       <PageContentWrapper>
-        <Description />
-        <Projects />
-        <div className="copyright">
-          <PageParagraph>Copyright © 2019 Diego Méndez.</PageParagraph>
+        <div className="vertical-content">
+          <Description />
+          <Projects />
+          <div className="copyright">
+            <PageParagraph>Copyright © 2019 Diego Méndez.</PageParagraph>
+          </div>
+        </div>
+        <div className="horizontal-content">
+          <PageParagraph>Rotate your phone please.</PageParagraph>
+          <img className="phone-return" src="/static/img/phoneRotate.gif" alt="phone-rotate"/>
         </div>
       </PageContentWrapper>
     </React.Fragment>
