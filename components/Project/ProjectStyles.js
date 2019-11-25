@@ -30,6 +30,8 @@ const ProjectWrapper = styled.div`
     object-fit: cover;
     width: 100%;
     margin-bottom: 2%;
+    max-height: 75vh;
+    object-position: center;
   }
 
   @media only screen and (min-width: 415px) and (max-width: 768px) {
@@ -38,6 +40,10 @@ const ProjectWrapper = styled.div`
       p {
         margin-top: 1%;
       }
+    }
+
+    img {
+      max-height: 65vh;
     }
   }
   @media only screen and (min-width: 769px) and (max-width: 1024px) {
