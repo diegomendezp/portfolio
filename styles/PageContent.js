@@ -33,6 +33,7 @@ const PageContentWrapper = styled.section`
         display: flex;
         flex-direction: column;
         a {
+          font-family: 'Courier-Regular';
           transition: all ease .5s;
           display: inline-block;
           color: #5b5b5b;

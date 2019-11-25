@@ -22,10 +22,10 @@ const Meta = () => {
         }
 
         @font-face {
-          font-family: "WhyteInktrap-Regular";
-          src: url(/static/fonts/WhyteInktrap-Light.woff2);
-          src: local("WhyteInktrap-Regular"),
-            url(/static/fonts/WhyteInktrap-Light.woff2) format("woff"),
+          font-family: "Courier-Regular";
+          src: url(/static/fonts/courier.ttf);
+          src: local("Courier-Regular"),
+            url(/static/fonts/courier.ttf) format("ttf"),
           font-weight: normal;
           font-style: normal;
         }

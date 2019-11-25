@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const PageParagraph = styled.p`
-  font-family: "WhyteInktrap-Regular";
+  font-family: "Courier-Regular";
   color: white;
   font-size: 0.9rem;
   line-height: 1rem;

@@ -12,7 +12,7 @@ export default function Project({ name, photo, client, role, technologies, link,
           <PageParagraph><span className="uppercase bold">Client: </span> {client}</PageParagraph>
           <PageParagraph> <span className="uppercase bold">Role: </span> {role}</PageParagraph>
           <PageParagraph> <span className="uppercase bold">Technologies: </span> {technologies}</PageParagraph>
-          <a href={link} target="_blank" rel="noopener noreferrer"><PageParagraph className="uppercase">Visit site →</PageParagraph></a>
+          <a href={link} target="_blank" rel="noopener noreferrer"><PageParagraph className="uppercase">Visit site → </PageParagraph></a>
         </div>
       </div>
     </ProjectWrapper>
