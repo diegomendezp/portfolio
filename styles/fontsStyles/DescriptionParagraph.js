@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const DescriptionParagraph = styled.p`
   font-family: "Space-Mono";
   color: white;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1.3;
   letter-spacing: 0.02rem;
   mix-blend-mode: difference;
