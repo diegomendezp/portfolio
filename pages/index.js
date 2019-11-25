@@ -20,7 +20,7 @@ function Home() {
           <Description />
           <Projects />
           <div className="copyright">
-            <PageParagraph>Copyright © 2019 Diego Méndez.</PageParagraph>
+            <PageParagraph>© Copyright 2019 Diego Méndez</PageParagraph>
           </div>
         </div>
         <div className="horizontal-content">

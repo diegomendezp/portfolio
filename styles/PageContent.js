@@ -50,7 +50,10 @@ const PageContentWrapper = styled.section`
 
   .copyright {
     position: absolute;
-    bottom: 0.1%;
+    bottom: 0.0%;
+    p { 
+      font-size: 10px;
+    }
   } 
   @media screen and (orientation: landscape) and (max-height: 414px){
     .horizontal-content {

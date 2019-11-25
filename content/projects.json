@@ -1,12 +1,12 @@
 [
   {
     "name": "Vasalto web page",
-    "photo":"/static/img/vasalto.jpg",
+    "photo":"/static/img/vasalto1.jpg",
     "client":"Vasalto Tech and Talent",
     "role": "Lead Developer",
     "technologies": "Next.js – Express.js",
     "link": "https://vasalto.com/",
-    "size": "50%",
+    "size": "45%",
     "justify":"flex-end"
   },
   {
