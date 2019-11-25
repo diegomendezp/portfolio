@@ -3,12 +3,12 @@ import styled from 'styled-components';
 const DescriptionParagraph = styled.p`
   font-family: "Space-Mono";
   color: white;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.3;
   letter-spacing: 0.02rem;
   mix-blend-mode: difference;
   
-  @media only screen and (min-width:321px) and (max-width:414px){
+  @media only screen and (min-width:376px) and (max-width:414px){
     font-size: 1.2rem;
     line-height: 1.3;
     letter-spacing: 0.04rem;
