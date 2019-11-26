@@ -7,6 +7,10 @@ const DescriptionParagraph = styled.p`
   line-height: 1.3;
   letter-spacing: 0.02rem;
   mix-blend-mode: difference;
+
+  &::selection{
+    color:#0095ff;
+  }
   
   @media only screen and (min-width:376px) and (max-width:414px){
     font-size: 1.2rem;
