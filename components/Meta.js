@@ -6,8 +6,8 @@ const Meta = () => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <meta name="keywords" content="freelancer, spanish, madrid, web development, computer engineer, reactjs, nodejs, nextjs" />
-        <meta name="description" content="Software Engineer for React.js, Node.js, Next.js and JavaScript. Based in Madrid, Spanish/English speaking. Web Developer and Bootcamp Instructor." />
+        <meta name="keywords" content="freelancer, spanish, madrid, web development, computer engineer, reactjs, nodejs, nextjs, redux" />
+        <meta name="description" content="Computer Engineer for React.js, Node.js, Next.js and JavaScript. Based in Madrid, Spanish/English speaking. Web Developer and Bootcamp Instructor." />
         <title>Diego Méndez</title>
         <link
           rel="apple-touch-icon"
