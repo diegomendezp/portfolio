@@ -3,11 +3,11 @@ import ProjectWrapper from './ProjectStyles'
 import PageParagraph from '../../styles/fontsStyles/PageParagraph'
 import PageLink from '../../styles/fontsStyles/PageLink'
 
-export default function Project({ name, photo, client, role, technologies, link, size, justify }) {
+export default function Project({ name, photo, client, role, technologies, link, size, justify, num }) {
   return (
     <ProjectWrapper size={size} justify={justify} data-aos="fade-up" data-aos-easing="ease-in-out">
       <div className="project-container">
-        <img src={photo} alt="project-photo"/>
+        <img src={photo} alt="project-photo" className={`project-image-${num}`}/>
         <div className="project-info">
           <PageParagraph className="uppercase">{name}</PageParagraph>
           <PageParagraph><span className="uppercase bold">Client: </span> {client}</PageParagraph>

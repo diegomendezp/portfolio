@@ -32,6 +32,10 @@ const ProjectWrapper = styled.div`
     margin-bottom: 2%;
     max-height: 75vh;
     object-position: center;
+
+  }
+  .project-image-5 {
+      background-color: white;
   }
 
   @media only screen and (min-width: 415px) and (max-width: 768px) {
