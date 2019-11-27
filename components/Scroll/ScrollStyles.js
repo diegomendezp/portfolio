@@ -19,7 +19,7 @@ const ScrollWrapper = styled.div`
         position: absolute;
         margin: 0;
         top: 0;
-        left: 20px;
+        left: 15px;
     }
 
     div.scroll {

@@ -17,13 +17,13 @@ export default function Description() {
       <div className="description-content" data-aos="fade-in">
         <div className="description-text">
           <DescriptionParagraph>
-            Hi, I'm Diego, a Computer Engineer and Full Stack Web Developer based in Madrid.
+            Hi, I'm Diego, a Computer Engineer and Full Stack Web Developer based in Madrid. I Co-Founded <a href="https://tailor-hub.com/" target="_blank" rel="noopener noreferrer">Tailor-Hub</a>, a digital boutique whose aim is to shape ideas for the creation of digital products.
           </DescriptionParagraph>
           <DescriptionParagraph>
-            I consider myself a versatile and dynamic person, responsible and dedicated to my tasks.  I am analytical and proactive, aware of the sense of urgency and with the ability to work under pressure.
+            I consider myself a versatile and dynamic person, responsible and fully dedicated to my tasks. I am analytical and proactive, aware of the sense of urgency and have the ability to work under pressure.
           </DescriptionParagraph>
           <DescriptionParagraph>
-            I am always eager to learn and improve my skills, and to do this, I usually analyze my mistakes in order to know how to make it better in the future.
+          Aside from working as a Developer, I'm also an Instructor at <a href="https://www.ironhack.com/en" target="_blank" rel="noopener noreferrer">Ironhack Madrid</a>, ranked as #2 as student-rated coding and design bootcamp in the world in 2018.
           </DescriptionParagraph>
         </div>
         <div className="networks">
@@ -35,7 +35,7 @@ export default function Description() {
           </div>
           <Scroll />
         </div>
-        
+
       </div>
     </div>
   )

@@ -10,17 +10,22 @@ const PageContentWrapper = styled.section`
 
   .description-container {
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     
     .description-content {
-      /* border-top: 1px solid rgba(224,224,224, 0.4);
-      border-bottom: 1px solid rgba(224,224,224, 0.4); */
-      /* padding: 5% 0; */
-      /* background-color: #1d1d1f; */
       padding-top: 5%;
     }
 
     .description-text {
+      a {
+        color: white;
+        &:visited {
+          color: white;
+        }
+        &::selection{
+          color:#0095ff;
+        }
+      }
       p {
         margin-bottom: 2%;
       }
@@ -50,9 +55,9 @@ const PageContentWrapper = styled.section`
 
   .copyright {
     position: absolute;
-    bottom: 0.0%;
+    bottom: 0;
     p { 
-      font-size: 10px;
+      font-size: 9px;
     }
   } 
   @media screen and (orientation: landscape) and (max-height: 414px){
