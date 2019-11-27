@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start -p $PORT",
     "heroku-postbuild": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "next build && next export && git add out/ && touch out/.nojekyll && git add out/.nojekyll && git commit -m \"Deploy gh-pages last version\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
