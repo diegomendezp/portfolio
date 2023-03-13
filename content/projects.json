@@ -1,57 +1,47 @@
 [
   {
-    "name": "Vasalto web page",
-    "photo":"/static/img/vasalto1.jpg",
-    "client":"Vasalto Tech and Talent",
+    "name": "Volkswagen Driving Experience",
+    "photo":"/img/vw.jpeg",
+    "client":"Volkswagen España",
     "role": "Lead Developer",
-    "technologies": "Next.js – Express.js",
-    "link": "https://vasalto.com/",
+    "technologies": "Next.js",
+    "link": "https://drivingexperience.volkswagen.es/",
     "size": "45%",
     "justify":"flex-end"
   },
   {
-    "name": "MRO Aerospace Logistics Stock Optimisation UI",
-    "photo":"/static/img/obuu.jpg",
-    "client":"Obuu",
+    "name": "Aldao",
+    "photo":"/img/aldao.jpg",
+    "client":"Aldao Joyeros",
     "role": "Lead Developer",
-    "technologies": "React – Redux",
-    "link": "/",
-    "size": "55%",
+    "technologies": "Next.js - Shopify",
+    "link": "https://www.aldao1911.com/",
+    "size": "45%",
     "justify":"flex-start"
   },
   {
-    "name": "Amaped web page",
-    "photo":"/static/img/amaped.jpg",
-    "client":"Amaped",
-    "role": "Lead Developer",
-    "technologies": "Next.js",
-    "link": "https://amaped.com/",
+    "name": "DOC in the city",
+    "photo":"/img/doc.jpeg",
+    "client":"DOC in the city",
+    "role": "Mobile developer",
+    "technologies": "React Native",
+    "link": "https://tailor-hub.com/projects/docinthecity",
     "size": "65%",
     "justify":"center"
   },
   {
-    "name": "NU:NC Control Panel",
-    "photo":"/static/img/nunc-panel.png",
-    "client":"Tailor Hub",
-    "role": "Lead Developer – CTO",
-    "technologies": "React – Node – Redux",
-    "link": "https://panel-nunc.app.faable.com/login",
-    "size": "50%",
+    "name": "Vegetales",
+    "photo":"/img/vegetales.jpeg",
+    "client":"Harmon",
+    "role": "Lead Developer",
+    "technologies": "Next.js - CMS",
+    "link": "https://somosvegetales.org/",
+    "size": "55%",
     "justify":"flex-end"
   },
   {
-    "name": "Ejiure web page",
-    "photo":"/static/img/ejiure.jpg",
-    "client":"Ejiure",
-    "role": "Lead Developer",
-    "technologies": "Next.js",
-    "link": "https://ejiure.herokuapp.com/",
-    "size": "55%",
-    "justify":"center"
-  },
-  {
     "name": "NU:NC APP",
-    "photo":"/static/img/nunc-app.png",
+    "photo":"/img/nunc-app.png",
     "client":"Tailor Hub",
     "role": "Developer",
     "technologies": "React Native – Redux",
@@ -60,14 +50,34 @@
     "justify":"flex-start"
   },
   {
-    "name": "Ironhack Squad Converter",
-    "photo":"/static/img/ironhack.jpg",
-    "client":"Ironhack",
-    "role": "Frontend Developer",
-    "technologies": "Angular",
-    "link": "https://squads.ironhack.com/splash",
+    "name": "TEC Evolution",
+    "photo":"/img/tec.jpg",
+    "client":"TEC Evolution",
+    "role": "Lead Developer",
+    "technologies": "Next.js - CMS",
+    "link": "https://tecevolution.ae/",
     "size": "65%",
     "justify":"flex-end"
+  },
+  {
+    "name": "AulaPro",
+    "photo":"/img/aulapro.jpeg",
+    "client":"Hacemos Cosas",
+    "role": "Mobile Developer",
+    "technologies": "React Native",
+    "link": "https://aulapro.es/",
+    "size": "55%",
+    "justify":"center"
+  },
+  {
+    "name": "Lastlap",
+    "photo":"/img/lastlap.jpeg",
+    "client":"Lastlao",
+    "role": "Lead Developer",
+    "technologies": "Next.js - CMS",
+    "link": "https://lastlap.com/en",
+    "size": "40%",
+    "justify":"flex-start"
   }
 
 ]

@@ -34,7 +34,7 @@ const ProjectWrapper = styled.div`
     object-position: center;
 
   }
-  .project-image-5 {
+  .project-image-4 {
       background-color: white;
   }
 
@@ -59,6 +59,9 @@ const ProjectWrapper = styled.div`
     }
   }
   @media only screen and (min-width: 1025px) and (max-width: 1440px) {
+    img {
+      max-height: 85vh;
+    }
     padding: 4% 0;
     .project-container {
       width: ${props => props.size ? props.size : '100%'};
@@ -70,6 +73,9 @@ const ProjectWrapper = styled.div`
   }
   @media only screen and (min-width: 1441px) {
     padding: 3% 0;
+    img {
+      max-height: 85vh;
+    }
     .project-container {
       width: ${props => props.size ? props.size : '100%'};
       p {

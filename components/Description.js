@@ -23,7 +23,7 @@ export default function Description() {
             I consider myself a versatile and dynamic person, responsible and fully dedicated to my tasks. I am analytical and proactive, aware of the sense of urgency and have the ability to work under pressure.
           </DescriptionParagraph>
           <DescriptionParagraph>
-          Aside from working as a Developer, I'm also an Instructor at <a href="https://www.ironhack.com/en" target="_blank" rel="noopener noreferrer">Ironhack Madrid</a>, ranked as #2 as student-rated coding and design bootcamp in the world in 2018.
+          Aside from working as a Developer, I'm also an Lead Teacher at <a href="https://www.ironhack.com/en" target="_blank" rel="noopener noreferrer">Ironhack Madrid</a>, ranked as #2 as student-rated coding and design bootcamp in the world in 2018.
           </DescriptionParagraph>
         </div>
         <div className="networks">
