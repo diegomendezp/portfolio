@@ -2,16 +2,15 @@ import styled from 'styled-components';
 
 const BackgroundWrapper = styled.section`
   position: fixed;
-  min-height: 100vh;
   top: 0;
   left: 0;
-  min-height: 100vh;
+  bottom: 0;
   width: 100%;
   overflow: hidden;
-  background-color: #1d1d1f;
   display: flex;
   align-items: flex-end;
-  z-index: -1;
+  z-index: 1;
+  mix-blend-mode: difference;
 
    .marquee {
     width: 100%;

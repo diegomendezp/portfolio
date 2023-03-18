@@ -7,7 +7,7 @@ const ProjectWrapper = styled.div`
   width: 100%;
   z-index: 1;
   padding: 10% 0;
-  mix-blend-mode: difference;
+  /* mix-blend-mode: difference; */
 
   .project-container {
     width: 100%;
