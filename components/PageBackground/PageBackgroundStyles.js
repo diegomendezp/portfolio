@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const BackgroundWrapper = styled.section`
   position: fixed;
-  top: 0;
+  height: 56px;
   left: 0;
   bottom: 0;
   width: 100%;
